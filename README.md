@@ -1,9 +1,8 @@
 # AgenticGuard Red Team AI Scanner Report
 
-## Project Overview
-
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/526bbd8a-4206-4f11-8710-606b62691284" />
 
+## Project Overview
 
 | Attribute | Description |
 | --- | --- |
