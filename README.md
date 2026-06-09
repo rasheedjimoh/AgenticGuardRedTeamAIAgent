@@ -384,6 +384,9 @@ AgenticGuard improves operational efficiency by automating a repeatable scan pip
 
 **Status:** Implemented as local file-based hash chaining. It is not immutable storage.
 
+<img width="2744" height="1366" alt="image" src="https://github.com/user-attachments/assets/8ba25609-496b-43cb-b9de-ee1df25ec19c" />
+
+
 ### Dashboard and Reporting
 
 **Description:** The React dashboard shows running scans, total findings, scanned resources, AI agent surfaces, scan runs, severity distribution, resource types, scan queue, grouped risk view, report export, payload monitor, findings list, and execution trace.
