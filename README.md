@@ -1,4 +1,4 @@
-# AgenticGuard Project Report
+# AgenticGuard Red Team AI Scanner Report
 
 ## Project Overview
 
