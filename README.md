@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-<img width="2744" height="1456" alt="image" src="https://github.com/user-attachments/assets/c4b0ade9-6a9e-4030-859e-e936b0675ef2" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/526bbd8a-4206-4f11-8710-606b62691284" />
+
 
 | Attribute | Description |
 | --- | --- |
@@ -21,7 +22,7 @@ The project exists to help security teams validate whether owned systems expose 
 
 The current application is best understood as a working local security assessment product with a modern UI, concurrent scan tracking, evidence handling, and deployable container packaging. It is not yet the production SaaS stack described in earlier product goals. The codebase does not include PostgreSQL models, Redis queues, Celery workers, enterprise SSO, MFA, RBAC administration, object storage, real multi-tenant database isolation, or signed report generation. Those areas should be treated as future production hardening work.
 
-<img width="2754" height="1460" alt="image" src="https://github.com/user-attachments/assets/1e3652ff-1fb4-4055-b3e1-138577ec69d3" />
+<img width="2744" height="1456" alt="image" src="https://github.com/user-attachments/assets/c4b0ade9-6a9e-4030-859e-e936b0675ef2" />
 
 ### Product Summary
 
@@ -65,6 +66,8 @@ Implemented capabilities include:
 ### Business Value
 
 AgenticGuard reduces the manual effort required to discover and communicate security risks in web and AI-enabled applications. Its business value comes from consolidating several security tasks into one workflow: target intake, authorization attestation, scanner execution, evidence capture, finding normalization, severity grouping, and report export. For executives and security leaders, it creates a repeatable evidence trail and a structured view of risk. For developers and AppSec teams, it exposes concrete request/response evidence and remediation advice that can be acted upon.
+
+<img width="2754" height="1460" alt="image" src="https://github.com/user-attachments/assets/1e3652ff-1fb4-4055-b3e1-138577ec69d3" />
 
 ## Executive Summary
 
